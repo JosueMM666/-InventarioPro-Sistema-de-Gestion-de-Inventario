@@ -29,6 +29,41 @@
    .venv\Scripts\python.exe inventario_pro.py
    ```
 
+<p align="center">
+  <img src="screenshots/principal.png" alt="Panel principal de InventarioPro" width="800">
+</p>
+
+<p align="center">
+  <b>Panel principal</b><br>
+  Resumen y control del inventario.
+</p>
+
+<p align="center">
+<img src="screenshots/productos.png" alt="Catalogo productos de InventariosPro" width="800">
+</p>
+
+<p align="center">
+<b>Catalogo productos</b><br>
+Administracion de productos.
+</p>
+
+<p align="center">
+<img src="screenshots/movimientos.png" alt="Historial de movimientos de InventariosPro" width="800">
+</p>
+
+<p align="center">
+<b>Historial de movimientos</b><br>
+Control de entradas, salidas y ajustes de existencias.
+</p>
+
+<p align="center">
+<img src="screenshots/registro.png" alt="Regitro de producto de InventariosPro" width="800">
+</p>
+
+<p align="center">
+<b>Panel registro de productos</b><br>
+Registro y edición.
+
 ## Crear ejecutable
 Haz doble clic en `crear_ejecutable_windows.bat` o ejecútalo desde CMD. Al finalizar, encontrarás:
 `dist\InventarioPro\InventarioPro.exe`
